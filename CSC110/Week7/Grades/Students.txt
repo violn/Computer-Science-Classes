@@ -1,0 +1,21 @@
+Colton, Juma, 8/23/2003, French 1, C
+Toomie, Gunao, 4/15/1998, Communication, B
+Cherryl, Tellerman, 2/29/2000, Calculus AB, F
+Vincent, Geruno, 10/31/2001, German, B
+Maximillion, Franklin, 11/5/2001, Calculus AB, A
+Emaud, Leatherman, 7/5/2000, Calculus BC, D
+Jamie, Turing, 6/12/1999, Intro to Java, D
+Leigh, Lambert, 2/12/1980, Computational Mathematics, D
+Lyle, Herrera, 2/11/1981, Human Resources, B
+Melissa, Wright, 2/12/1981, Semiotic Anthropology, D
+Tracy, Santiago, 3/14/1982, Greek, D
+Christian, Holland, 8/14/1983, Statistical Mechanics, B
+Melinda, Welch, 3/17/1984, Community Informatics, F
+Zachary, Garza, 7/28/1986, Deaf Studies, A
+Melvin, Drake, 4/2/1988, Comparative Law, C
+Erika, James, 12/5/1989, Catholic Theology, D
+Wanda, Sherman, 7/11/1995, Korean Studies, D
+Saul, Flores, 10/4/1995, Sociology of Work, A
+Cindy, Leonard, 3/8/1996, Genetics, C
+Ted, Roberson, 3/22/1998, Emergency Medicine, A
+Anne, Porter, 11/21/2001, Sociology of Autism, A

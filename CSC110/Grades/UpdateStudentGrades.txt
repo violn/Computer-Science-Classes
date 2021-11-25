@@ -1,0 +1,1003 @@
+These students got a 10 percent grade increase.
+Ciihuaca, Moage, 2001-04-05, Iranian Studies, 10
+
+These students did not get a 10 percent grade increase.
+Uayi, Ailoa, 2000-05-15, Slavic Studies, 100
+Cuod, Waab, 1996-12-11, Southeast Asian Studies, 100
+Jeena, Ouko, 2000-01-21, Digital Journalism, 100
+Iodia, Jeip, 1999-08-31, Digital Journalism, 100
+Seih, Eeni, 1997-11-01, Neuro-Ophthalmology, 100
+Biuwuo, Ueke, 1996-01-29, Topology, 100
+Soagi, Fuuhui, 1998-10-02, Intellectual History, 100
+Peat, Couj, 2000-09-04, Nigerian History, 100
+Veapa, Fiavioyu, 2002-05-12, Macroeconomics, 100
+Kuor, Ueqi, 1999-01-05, Behavioral Sociology, 100
+Soug, Daom, 1998-05-18, Jewish Theology, 99
+Piowe, Vaevi, 2002-07-23, Civil Procedure, 99
+Juebu, Goadi, 1996-11-01, Chemical Biology, 99
+Aiku, Juuzuu, 2000-05-13, Religious Studies, 99
+Biola, Xuefois, 1997-06-04, Cultural Anthropology, 99
+Fuuzoo, Soaq, 1996-10-16, Business Informatics, 99
+Kiat, Siic, 2002-10-20, Atmospheric Science, 99
+Beorau, Zauhi, 2002-05-07, Periodontics, 99
+Gaon, Seusi, 2000-02-29, Brazilian History, 99
+Iaca, Auwee, 2003-12-16, Slavic Studies, 99
+Aehui, Yeuqoe, 1997-08-27, Electrical Engineering, 99
+Yiup, Ioji, 1997-08-01, Sonochemistry, 98
+Iaha, Uege, 1999-06-20, Inorganic Chemistry, 98
+Suaz, Gaabu, 1996-03-28, Music Education, 98
+Eanaesau, Peeme, 1997-03-19, Human Biology, 98
+Nioy, Poacu, 1996-08-31, Wildlife Management, 98
+Joode, Kuoyi, 1998-06-11, History of Mesopotamia, 98
+Hoan, Buuvue, 2001-04-28, Neuro-Ophthalmology, 98
+Nioq, Biex, 1996-10-05, Cultural Anthropology, 98
+Oojuis, Paov, 2001-07-16, Business, 98
+Uudue, Meoq, 2001-04-14, Atmospheric Science, 98
+Suayu, Liuv, 1996-12-15, Reading Education, 98
+Jouco, Eoxee, 2003-07-22, Sociology of Marriage, 98
+Baigaomu, Hoag, 2000-04-12, Philosophy of Space and Time, 98
+Wuocaa, Piexo, 1996-08-11, Intellectual History, 98
+Oaweu, Doan, 2001-03-14, International Economics, 97
+Yaore, Reof, 1996-08-12, Actuarial Science, 97
+Uosoon, Oaqio, 2002-08-21, Medicinal Chemistry, 97
+Reev, Fiak, 1999-06-28, Nigerian History, 97
+Siup, Dior, 2003-09-04, Psychoanalysis, 97
+Eohi, Oaku, 1997-05-13, Archaeological Theory, 97
+Zued, Fian, 1998-02-27, Cryobiology, 97
+Foiw, Buecoa, 2002-07-14, Topology, 97
+Woud, Xoekeev, 1996-03-16, Apiology, 97
+Uowi, Quaq, 1998-10-21, Logic in Computer Science, 97
+Zaam, Riuga, 2003-05-17, Biblical Studies, 96
+Miak, Piose, 1998-11-20, Sociology of Agriculture, 96
+Qiasiu, Kuufa, 2002-05-02, Chemical Biology, 96
+Weoz, Fiaj, 1997-02-07, Psychophysics, 96
+Juajii, Siaga, 2000-06-28, Mathematical Economics, 96
+Kuene, Iini, 2002-08-11, Galaxy Formation and Evolution, 96
+Diec, Baose, 1997-01-21, Physical Fitness, 96
+Riat, Ruofiisu, 2001-10-21, Behavioral Sociology, 96
+Meote, Noad, 1996-07-08, Psychoanalysis, 96
+Wuija, Baihia, 1997-12-15, Japanese, 96
+Tiedi, Oivuo, 1998-06-15, Jealousy Sociology, 95
+Aufie, Naum, 2001-09-30, Psychoanalysis, 95
+Weuv, Deuso, 2001-04-08, Macroeconomics, 95
+Xuoy, Weac, 2003-02-07, History of Mesopotamia, 95
+Qoeb, Bein, 1997-07-18, Philosophy of Language, 95
+Reuci, Buexeepu, 2002-03-03, Archaeological Theory, 95
+Zaihaiw, Bueyou, 1996-05-16, Macroeconomics, 95
+Uuluo, Tuoha, 2001-06-18, Anarchist Economics, 95
+Haig, Raeq, 2001-08-27, Environmental Chemistry, 95
+Weiziu, Eiwie, 2002-11-25, Bioinformatics, 95
+Muiju, Aujo, 1998-11-01, Culturology, 95
+Hiuw, Biulu, 2001-08-28, Music Education, 95
+Eaxuod, Niuc, 2001-03-22, Australian Studies, 95
+Iadui, Xiar, 1996-08-23, Strategic Geography, 94
+Saas, Xeus, 2000-02-28, Bioinformatics, 94
+Iirie, Ouna, 2000-11-04, Police Science, 94
+Aila, Duow, 2000-12-04, Statistical Mechanics, 94
+Oaru, Aupeegi, 1999-02-06, Archaeology, 94
+Yook, Soof, 2002-07-09, Macroeconomics, 94
+Jeolei, Ietae, 1998-09-17, Nigerian History, 93
+Niuvui, Euqe, 1996-08-22, History of Culture, 93
+Iini, Xiasiu, 1999-07-24, History of Mesopotamia, 93
+Yaah, Veokoi, 2001-11-29, Business, 93
+Iawu, Diej, 1998-03-29, Paleoecology, 93
+Been, Moum, 2003-03-25, Architectural Engineering, 93
+Kioqe, Veet, 1998-06-04, Human Biology, 93
+Ouhu, Duijeu, 2000-05-31, Philosophy of Education, 93
+Sooz, Paevu, 1999-10-13, Cryogenics, 93
+Yuuqiux, Tuudaur, 1996-11-13, Sociology of Human Consciousness, 93
+Veico, Seiso, 1999-08-20, Archaeological Theory, 93
+Aumu, Naaqe, 2001-08-01, Jealousy Sociology, 92
+Xuasee, Voek, 1996-11-27, Electromagnetism, 92
+Jeitei, Giuj, 2000-01-20, Atmospheric Science, 92
+Aoxaiv, Luonau, 2003-06-04, Bioethics, 92
+Juizuogi, Diiw, 1999-01-20, Process Design, 92
+Weax, Oiqoi, 1997-09-30, Sociology of Human Consciousness, 92
+Tiosu, Mauruip, 1998-07-21, Cryobiology, 92
+Viuza, Paon, 1996-05-09, Cryogenics, 92
+Muavi, Jior, 1997-06-07, Logic in Computer Science, 92
+Wies, Biic, 1997-10-07, Psychoanalysis, 92
+Uibio, Seay, 1996-01-23, Animation, 92
+Zeel, Geiliac, 1998-07-17, Brazilian History, 92
+Gaiw, Daew, 1999-02-15, Environmental Chemistry, 91
+Biova, Soiqe, 1999-11-23, Australian Studies, 91
+Uiga, Luip, 2002-04-11, Philosophy of Education, 91
+Doeq, Dauw, 2002-07-31, Japanese, 91
+Jiamiu, Euju, 1999-03-19, Actuarial Science, 91
+Mauf, Xiosuire, 2002-02-09, Moral Psychology and Descriptive Ethics, 91
+Oilu, Loiq, 1997-07-24, Business, 91
+Seoz, Foeya, 1999-12-25, Philosophy of Education, 91
+Liume, Aoyue, 1999-06-05, Philosophy of Mathematics, 91
+Heahu, Luigai, 2003-01-26, Apiology, 90
+Fiud, Tuop, 2001-02-04, Music Education, 90
+Voura, Yeor, 1997-02-22, Architectural Engineering, 90
+Hiizio, Moeb, 2000-07-09, Medicinal Chemistry, 90
+Cuiv, Ioti, 1997-08-27, Kinematics, 90
+Vousi, Caog, 2002-08-17, Neuro-Ophthalmology, 90
+Zeol, Ciofo, 2003-01-27, World History, 90
+Oofoo, Yair, 1998-06-11, Psychophysics, 90
+Ciuw, Coug, 1998-06-18, Ubiquitous Computing, 90
+Woin, Look, 2000-06-03, Periodontics, 90
+Uaba, Daic, 1997-09-26, Process Design, 90
+Wiob, Raeqou, 1999-06-07, Naval Architecture, 89
+Huiv, Cuesu, 2000-05-31, Strategic Geography, 89
+Leov, Kiige, 1998-08-05, Company Law, 89
+Vier, Puigi, 1997-07-30, Phytogeography, 89
+Yoaco, Hour, 2003-06-24, Police Science, 89
+Jousa, Zuabo, 2001-09-28, Mathematical Economics, 89
+Violoi, Fuuw, 1997-05-13, Psychophysics, 89
+Taox, Keeseiri, 2003-04-25, Logic in Computer Science, 89
+Geuzuuta, Goef, 2002-11-03, Petrochemistry, 89
+Heel, Naoc, 1996-07-06, Linnaean Taxonomy, 89
+Eijo, Ouho, 2001-12-14, Sociology of Human Consciousness, 88
+Toaj, Guon, 1999-01-07, Religious Studies, 88
+Hiovuos, Hiey, 1996-03-29, Behavioral Sociology, 88
+Ooru, Deal, 2000-04-29, Ornithology, 88
+Liec, Neus, 2003-04-16, Anarchist Economics, 88
+Uuza, Meif, 2002-12-29, Neuro-Ophthalmology, 88
+Gaeci, Fuut, 2003-06-06, Philosophy of Space and Time, 88
+Joet, Luil, 1999-05-16, Process Design, 87
+Fiut, Aiso, 2003-10-05, Phenomenological Sociology, 87
+Maijuove, Oepeeyi, 2001-07-05, Southeast Asian Studies, 87
+Uuyai, Teepaedu, 2003-01-04, Southeast Asian Studies, 87
+Nuato, Vaihio, 2000-01-05, Pan-American History, 87
+Tiuc, Heud, 1997-12-10, Pragmatics, 87
+Doah, Qeejuuha, 1998-02-16, Mathematical Economics, 87
+Puupa, Fooq, 1996-05-21, Geophysics, 87
+Fauca, Puow, 1997-05-15, Galaxy Formation and Evolution, 87
+Ciac, Teudu, 1998-01-02, Civil Procedure, 87
+Oudo, Meelaat, 1996-05-12, Sociology of Marriage, 86
+Feil, Zuaw, 2001-09-17, International Economics, 86
+Veeho, Yiupui, 2000-01-25, Traffic Psychology, 86
+Meiraa, Eogauf, 2003-08-04, Philosophy of Education, 86
+Noop, Kuog, 2001-02-01, Economic Systems, 86
+Laoneis, Poikuuve, 2001-10-12, Behavioral Sociology, 86
+Eoro, Uumu, 2002-01-27, Music Education, 86
+Juod, Veik, 1999-03-31, Nigerian History, 86
+Pieq, Xoobui, 1997-09-21, Bioethics, 86
+Duexa, Rueca, 2003-07-07, Naval Architecture, 86
+Seoso, Wuon, 1996-08-30, Pragmatics, 85
+Quix, Yeovoubo, 1997-04-26, Differential Psychology, 85
+Caoyo, Quilo, 1999-04-11, Philosophy of Language, 85
+Zuiqoaye, Laag, 1999-03-16, Bioethics, 85
+Woid, Yoan, 1999-12-10, Inorganic Chemistry, 85
+Vuov, Seif, 1997-09-08, Particle Physics, 85
+Puut, Bouk, 1998-05-18, Psychoanalysis, 85
+Cuono, Fuap, 1997-11-23, Cryobiology, 85
+Yiad, Muom, 2003-10-10, Inorganic Chemistry, 85
+Veez, Ooyoukau, 1998-06-21, Kinematics, 85
+Suiw, Uaxua, 1996-10-31, Digital Journalism, 85
+Hoekaamu, Oisaareu, 1998-11-13, Company Law, 85
+Daet, Coovia, 1999-09-10, Nigerian History, 85
+Uuve, Need, 1999-08-07, Psychoanalysis, 85
+Woeqeo, Foifo, 1996-06-11, Rheumatology, 84
+Roimaa, Riunoima, 1998-09-02, Cosmochemistry, 84
+Noeb, Juefiol, 1998-01-12, Intellectual History, 84
+Sueg, Moosoe, 2002-08-14, Sociology of Marriage, 84
+Qiubuu, Doolo, 1999-02-10, Cryogenics, 84
+Xiit, Earu, 2000-02-10, Phenomenological Sociology, 84
+Siaf, Ruario, 1996-04-08, Behavioral Sociology, 84
+Ruaze, Paen, 1996-01-20, Galaxy Formation and Evolution, 84
+Baejoefe, Oilua, 2000-01-26, International Economics, 84
+Jeis, Eeya, 1996-04-21, Psychoanalysis, 84
+Ream, Piakuiy, 2002-02-08, Iranian Studies, 84
+Poey, Rainielu, 2003-10-25, Philosophy of Education, 84
+Yoepaeqi, Yeil, 2002-03-24, Iranian Studies, 83
+Eicu, Augo, 2003-08-14, Philosophy of Mathematics, 83
+Zairea, Iega, 2000-09-01, Galaxy Formation and Evolution, 83
+Ceobouk, Zuaw, 2003-06-23, Philosophy of Space and Time, 83
+Dieg, Ueho, 2000-05-25, Mathematical Economics, 83
+Loaj, Yeuku, 2001-02-19, Statistical Mechanics, 83
+Jioq, Maal, 1999-04-12, Human Biology, 83
+Qiinoux, Meajead, 1996-09-16, Atmospheric Science, 83
+Zuop, Leed, 1999-01-13, Southeast Asian Studies, 83
+Zuik, Eiveo, 2000-05-22, Phytogeography, 82
+Naey, Roes, 1998-04-09, Mathematical Economics, 82
+Tuov, Poit, 1999-11-30, Architectural Engineering, 82
+Cuej, Raal, 2003-12-18, Economic Systems, 82
+Ruiq, Soeh, 2001-04-03, Moral Psychology and Descriptive Ethics, 82
+Xiez, Liex, 2001-08-02, Statistical Mechanics, 82
+Tiuxu, Wuuciiy, 1999-09-04, Neuro-Ophthalmology, 82
+Naebiit, Peat, 1997-10-21, Statistical Mechanics, 82
+Kuav, Luufoep, 1997-02-15, Digital Journalism, 82
+Aaqi, Uuwi, 2000-03-13, History of Mesopotamia, 82
+Aevuu, Faaqoaya, 1999-02-05, Slavic Studies, 82
+Iupu, Neuk, 2002-03-27, Inorganic Chemistry, 82
+Teac, Biuwoilu, 2001-08-25, Pan-American History, 82
+Feure, Eisa, 1997-05-24, Biblical Studies, 81
+Zoaxuo, Duar, 1997-10-31, Kinematics, 81
+Yiayouk, Uuwiiv, 2002-10-21, Actuarial Science, 81
+Hiadua, Hiem, 2000-08-10, Civil Procedure, 81
+Teun, Huuto, 2002-11-14, Southeast Asian Studies, 81
+Jiuya, Oile, 1997-02-24, Colombian History, 81
+Veiwo, Uarua, 1999-09-04, Sociology of Human Consciousness, 81
+Gooli, Aice, 1998-03-17, Petrochemistry, 81
+Gooy, Uivi, 2000-01-22, Philosophy of Mathematics, 81
+Qoan, Tuaf, 2002-01-06, Pragmatics, 81
+Noojo, Geak, 1999-07-25, Macroeconomics, 81
+Zaih, Moefu, 1996-12-09, Iranian Studies, 81
+Huikaec, Deuni, 2001-02-28, Neuro-Ophthalmology, 80
+Taodeu, Naaxe, 2003-05-29, Behavioral Sociology, 80
+Leop, Faeh, 2003-07-26, Kinematics, 80
+Xeuw, Ruin, 1998-09-14, Paleoecology, 80
+Eeteexoo, Ziih, 1999-06-17, Slavic Studies, 80
+Saopo, Zaeduis, 1997-03-12, Reading Education, 80
+Touv, Kiuvu, 2003-01-20, Business, 80
+Uoqei, Wuas, 2000-02-13, Particle Physics, 80
+Iise, Ausu, 2002-11-19, Traffic Psychology, 80
+Toilii, Naizuuj, 1996-08-28, Particle Physics, 80
+Heapa, Aubieg, 1996-05-05, Sociology of Development, 79
+Qaaso, Huiq, 2000-05-06, Pragmatics, 79
+Yiexi, Hian, 1999-09-06, Southeast Asian Studies, 79
+Fiuz, Quim, 2003-11-02, Biblical Studies, 79
+Jiewe, Guefu, 1998-08-21, Cultural Anthropology, 79
+Poug, Eawa, 2001-06-06, Macroeconomics, 79
+Mieb, Juun, 2003-02-19, Police Science, 79
+Haez, Luaya, 2002-04-11, Sonochemistry, 79
+Liijo, Couso, 1996-07-10, Phenomenological Sociology, 79
+Diiva, Fiefe, 1996-02-03, Reading Education, 79
+Noatu, Moaf, 1998-01-09, Kinematics, 79
+Noit, Uufuaxua, 2000-10-16, Architectural Engineering, 79
+Muiyaowe, Raeluupa, 1998-02-06, Inorganic Chemistry, 78
+Yeaw, Bouq, 1998-08-22, Sociology of Marriage, 78
+Waalo, Aiguepe, 1996-03-31, World History, 78
+Feuwao, Coof, 1998-03-31, Company Law, 78
+Xeoseo, Tauy, 2003-08-17, Statistical Mechanics, 78
+Iije, Ueguo, 2002-12-21, Outdoor Education, 78
+Uopiaxui, Iebea, 2000-09-12, Orthodontics, 78
+Eugi, Deure, 2000-03-22, Strategic Geography, 77
+Leemea, Juuveoyo, 2003-04-25, Moral Psychology and Descriptive Ethics, 77
+Piuy, Cuuh, 2001-06-06, Mathematical Economics, 77
+Coon, Tief, 1999-11-19, Australian Studies, 77
+Tiez, Caata, 1997-05-16, Strategic Geography, 77
+Buiti, Fuuy, 2003-03-19, Petrochemistry, 77
+Peif, Miuru, 1997-11-21, Slavic Studies, 77
+Siizi, Xaajoo, 2002-07-28, Rheumatology, 77
+Zaon, Tailouw, 2003-02-02, Neuro-Ophthalmology, 76
+Luoz, Faek, 2000-01-28, Colombian History, 76
+Auqoa, Mein, 1997-08-09, Southeast Asian Studies, 76
+Zoisuis, Dooroele, 2001-11-22, Neuro-Ophthalmology, 76
+Zauwe, Xiomea, 2002-01-28, Labor Law, 76
+Yuot, Oeyu, 2002-12-11, Logic in Computer Science, 76
+Hiopi, Teazue, 2002-11-25, Animation, 75
+Douva, Xeic, 2000-02-29, Reading Education, 75
+Oiseuwe, Wook, 2000-07-06, Moral Psychology and Descriptive Ethics, 75
+Soad, Moop, 2002-12-02, Sociology of Development, 75
+Wuisei, Tiopaicu, 1996-08-25, Philosophy of Language, 75
+Kiuc, Reuf, 1996-01-05, Naval Architecture, 75
+Fuus, Heuwoe, 2002-12-14, Psychoanalysis, 75
+Paic, Kuera, 2001-03-25, Chemical Biology, 75
+Faur, Daomo, 1998-12-14, Electrical Engineering, 75
+Laimi, Ziol, 2001-09-05, Bioinformatics, 75
+Ouyu, Jiusa, 2001-03-14, Actuarial Science, 75
+Jaos, Ooji, 1999-04-24, Chemical Biology, 75
+Toux, Juuvai, 2003-02-26, Neuro-Ophthalmology, 75
+Reabee, Faeq, 2000-04-17, Southeast Asian Studies, 75
+Zeek, Oebiev, 1997-03-21, Neuro-Ophthalmology, 75
+Juob, Yuoz, 2002-05-19, Ubiquitous Computing, 74
+Xeecia, Jiolo, 2000-04-18, Rheumatology, 74
+Caocu, Xiaw, 1999-04-19, Behavioral Sociology, 74
+Voip, Xuohauna, 2003-11-18, Atmospheric Science, 74
+Yuekoixo, Buigu, 2000-09-12, Naval Architecture, 74
+Youxi, Couxo, 2000-02-03, Jealousy Sociology, 74
+Oiti, Mueroaj, 1999-02-16, Wildlife Management, 74
+Keof, Riur, 1998-11-25, Sociology of Marriage, 74
+Booga, Heeb, 1996-09-12, Process Design, 74
+Goom, Zuukuewi, 1998-12-20, Outdoor Education, 74
+Suuj, Miok, 2002-11-17, Business, 74
+Puuv, Weage, 2000-04-03, Music Education, 73
+Nueqi, Fuaqaoj, 2001-08-28, Anarchist Economics, 73
+Kooro, Kaiyeuc, 2003-07-10, Sonochemistry, 73
+Qoiz, Koozu, 1999-06-26, Psychophysics, 73
+Xiej, Oito, 1996-04-05, Colombian History, 73
+Guij, Feev, 2002-11-25, Ornithology, 73
+Uubi, Feoluud, 2002-12-31, Japanese, 73
+Boaqau, Saoc, 2001-10-14, Sociology of Human Consciousness, 73
+Buuk, Tuiku, 2002-04-15, Philosophy of Space and Time, 73
+Lieh, Noaf, 2003-04-16, Kinematics, 73
+Rius, Vuaz, 1996-02-06, Topology, 73
+Loadi, Tiugi, 1997-06-21, Geophysics, 72
+Cieh, Fiipoad, 2003-07-27, Architectural Engineering, 72
+Miava, Hiafai, 1996-07-23, Apiology, 72
+Qaofe, Foam, 2002-02-10, Philosophy of Space and Time, 72
+Rueba, Xoal, 2002-08-13, Philosophy of Education, 72
+Iamuu, Oaga, 2003-11-12, Physical Fitness, 72
+Deukoin, Vual, 1996-11-17, Civil Procedure, 72
+Cuum, Vaoj, 2002-03-09, Statistical Mechanics, 72
+Wiuv, Xaum, 2003-12-15, Mathematical Economics, 72
+Diuzu, Mouy, 2001-01-28, Archaeology, 72
+Uuga, Cuape, 1997-08-23, World History, 72
+Keup, Wuej, 2002-06-06, Petrochemistry, 72
+Zoad, Cuuh, 1997-03-23, Electromagnetism, 72
+Oiso, Jiapius, 1998-03-28, Macroeconomics, 72
+Eizi, Uexiuv, 1997-01-19, Police Science, 71
+Yiez, Tuere, 1998-07-03, Colombian History, 71
+Uivia, Reaya, 1996-04-23, Traffic Psychology, 71
+Geox, Piew, 2001-09-14, Statistical Mechanics, 71
+Xuuf, Yoeh, 2003-11-24, Southeast Asian Studies, 71
+Googoan, Reumeopu, 1998-03-08, Business Informatics, 71
+Zaasa, Oobu, 1998-11-27, Macroeconomics, 71
+Eiquu, Queq, 2002-02-28, Business, 71
+Nairoo, Iiye, 1996-01-11, Religious Studies, 71
+Gaajo, Eineedeu, 1997-01-15, Intellectual History, 71
+Uega, Sialuo, 1997-12-11, Neuro-Ophthalmology, 71
+Laiq, Wooyu, 1997-09-15, Jewish Theology, 71
+Miep, Euzu, 1999-10-21, Naval Architecture, 70
+Yuahi, Beusuat, 2000-09-13, Digital Journalism, 70
+Duejio, Jaimi, 2000-04-20, Actuarial Science, 70
+Yeur, Haiv, 1996-04-02, Australian Studies, 70
+Fois, Loube, 1996-07-15, Cryogenics, 70
+Suur, Giixa, 1997-09-22, Behavioral Sociology, 70
+Qiiq, Iuzi, 1996-10-14, Brazilian History, 70
+Kaerue, Qaomiu, 1996-01-22, Philosophy of Language, 70
+Roeju, Duaq, 2003-09-17, Biblical Studies, 70
+Ievo, Joipia, 2001-02-10, Sociology of Agriculture, 69
+Uepu, Xeal, 2000-01-18, Actuarial Science, 69
+Houl, Soih, 2001-03-02, Architectural Engineering, 69
+Aufei, Tuucao, 2003-01-12, Business Informatics, 69
+Luaj, Eulu, 1996-02-04, Psychoanalysis, 69
+Aigiuq, Raom, 2000-10-13, World History, 69
+Goul, Weuxi, 2001-10-10, Kinematics, 69
+Viita, Veiko, 2002-09-27, Actuarial Science, 69
+Iicu, Jaux, 1999-08-25, Logic in Computer Science, 69
+Peoz, Kieqae, 2001-07-19, Inorganic Chemistry, 69
+Jouy, Yiigo, 1998-10-01, Differential Psychology, 69
+Ouhoobea, Paas, 2001-09-05, Strategic Geography, 68
+Ziir, Laub, 1999-12-28, Wildlife Management, 68
+Jaiyaubi, Vuod, 1999-01-03, Culturology, 68
+Feayaim, Uuku, 2003-07-12, Company Law, 68
+Ruuxu, Zaiha, 2001-10-09, Chemical Biology, 68
+Uavooni, Riiv, 1997-05-28, Jealousy Sociology, 68
+Wuif, Viunaem, 1999-06-11, Sonochemistry, 68
+Jeiku, Gies, 2003-02-17, Ubiquitous Computing, 68
+Fauqu, Xoapa, 2002-11-08, Outdoor Education, 68
+Doitoul, Joakuuf, 1997-10-14, Electrical Engineering, 68
+Paecu, Cuow, 1997-11-24, Sociology of Human Consciousness, 68
+Aanu, Gooci, 2001-03-29, Particle Physics, 68
+Aojea, Kaasuiqa, 2002-01-07, Police Science, 68
+Pauz, Veaw, 2001-05-30, Company Law, 68
+Goedoa, Yoiv, 2000-04-12, Ubiquitous Computing, 67
+Iedo, Miode, 2001-02-19, Cosmochemistry, 67
+Poir, Eani, 1998-11-22, Mathematical Economics, 67
+Puak, Keulaa, 1996-06-13, Particle Physics, 67
+Uopiere, Aode, 2001-12-14, Wildlife Management, 67
+Eora, Qoac, 1998-07-13, Australian Studies, 67
+Iizi, Cuopo, 2000-09-05, Galaxy Formation and Evolution, 67
+Eobue, Fiunuaya, 2001-07-18, Bioinformatics, 67
+Meogo, Vooyia, 1999-10-26, Environmental Chemistry, 67
+Huuceop, Xeik, 2000-02-21, Outdoor Education, 67
+Aetiu, Faew, 2001-01-17, Moral Psychology and Descriptive Ethics, 67
+Caaqo, Qealiibi, 2002-07-21, Kinematics, 67
+Buoduel, Uupua, 1999-01-11, Geophysics, 67
+Veon, Keoquati, 1996-05-18, Slavic Studies, 67
+Baan, Eojaej, 1998-05-19, Jealousy Sociology, 67
+Voix, Weux, 2001-07-01, Geophysics, 67
+Reohu, Jeus, 1997-09-17, Mathematical Economics, 67
+Ioze, Heoq, 1998-04-19, Linnaean Taxonomy, 66
+Waak, Rautaof, 2001-05-30, Human Biology, 66
+Aufaoti, Beihu, 2000-03-15, Inorganic Chemistry, 66
+Roon, Paed, 2003-08-08, Outdoor Education, 66
+Goodu, Foovuopo, 1998-11-17, Southeast Asian Studies, 66
+Couxuum, Niekae, 1996-03-09, Jewish Theology, 66
+Xoad, Iehea, 1999-05-01, Archaeology, 66
+Uohoif, Daum, 1996-09-02, History of Mesopotamia, 65
+Xuoq, Jiat, 1998-08-25, Mathematical Economics, 65
+Rauda, Zuomu, 1996-05-27, Logic in Computer Science, 65
+Zoaq, Ciej, 2003-07-25, International Economics, 65
+Ceacuetu, Diidiiq, 1998-04-27, Philosophy of Space and Time, 65
+Luom, Saak, 2003-11-25, History of Mesopotamia, 65
+Euxo, Joil, 1997-09-17, Galaxy Formation and Evolution, 65
+Xuiq, Qauw, 2003-03-20, Police Science, 65
+Meef, Hoip, 1997-01-02, Colombian History, 65
+Kiihia, Eusaan, 1998-06-30, Sociology of Marriage, 65
+Gouz, Laoq, 2002-07-25, Chemical Biology, 65
+Vaah, Uoki, 2003-07-23, Ornithology, 65
+Voawa, Caup, 2000-09-04, Paleoecology, 64
+Iiniax, Teera, 1996-05-15, Animation, 64
+Leoxa, Euyeibo, 1999-03-15, Pragmatics, 64
+Seebuac, Oati, 1996-02-09, Chemical Biology, 64
+Muav, Seicuo, 2001-10-25, Human Biology, 64
+Geor, Kien, 1996-07-11, Sociology of Development, 64
+Xoaz, Maupia, 1997-10-05, Statistical Mechanics, 64
+Eemuu, Toaw, 2001-11-09, Atmospheric Science, 64
+Zeozi, Uite, 2002-12-22, Inorganic Chemistry, 63
+Jaap, Rouso, 1997-09-22, Physical Fitness, 63
+Piizo, Coub, 2001-02-28, Animation, 63
+Ziuli, Eebaa, 1997-11-30, History of Mesopotamia, 63
+Cuice, Giiroa, 1999-12-27, Moral Psychology and Descriptive Ethics, 63
+Wied, Qaika, 1996-04-14, Kinematics, 63
+Aeku, Peem, 1998-02-24, Bioinformatics, 63
+Sais, Aupe, 1998-08-23, Neuro-Ophthalmology, 63
+Wuino, Maawei, 1999-12-24, Traffic Psychology, 62
+Xouh, Xiatoidi, 1997-03-08, Physical Fitness, 62
+Kiowi, Ciupi, 1998-03-13, History of Culture, 62
+Huit, Loada, 2002-09-27, Business, 62
+Zuet, Jaukee, 2003-07-06, Archaeological Theory, 62
+Viuf, Haal, 2000-05-31, Wildlife Management, 62
+Uufu, Iemou, 2003-06-27, Cosmochemistry, 62
+Miubu, Iewie, 2002-11-28, Australian Studies, 62
+Vooyue, Riot, 2002-01-24, Iranian Studies, 62
+Coono, Xaomiul, 2000-04-03, Religious Studies, 61
+Doezuuvu, Zaey, 2002-03-02, Brazilian History, 61
+Yuay, Wiec, 1999-11-17, Economic Systems, 61
+Siehaet, Waop, 2000-02-21, Orthodontics, 61
+Tuimae, Loov, 1998-10-03, Japanese, 61
+Kiuj, Ouzua, 2003-02-16, Process Design, 61
+Teaxaij, Qaigeu, 2000-12-07, Psychoanalysis, 61
+Yied, Wooh, 2003-11-23, Climatology, 61
+Tuaguixa, Lieq, 1999-10-08, Parasitology, 60
+Goay, Joos, 1998-07-24, World History, 60
+Ruak, Saeg, 2002-07-17, Philosophy of Education, 60
+Taus, Uopeodu, 2002-10-02, Jealousy Sociology, 60
+Tueb, Weob, 1999-02-09, Biblical Studies, 60
+Uoleazua, Eixietu, 2000-05-08, Bioethics, 60
+Aoje, Puig, 2001-11-14, Traffic Psychology, 60
+Veuni, Liupoo, 1996-07-20, Architectural Engineering, 60
+Qoeg, Miat, 1996-02-23, Biblical Studies, 59
+Vaeq, Piupiax, 2001-03-22, Culturology, 59
+Zaen, Raila, 1999-12-12, Business, 59
+Aeku, Tooqee, 2000-07-10, Rheumatology, 59
+Keufu, Xaoyo, 1997-08-21, Architectural Engineering, 59
+Oehaeji, Giet, 2002-05-09, Galaxy Formation and Evolution, 59
+Zeup, Kaac, 2002-05-18, Religious Studies, 58
+Ougaiv, Caam, 2002-12-04, Topology, 58
+Lues, Seolu, 1996-06-25, Moral Psychology and Descriptive Ethics, 58
+Giara, Oedea, 1999-06-26, Psychophysics, 58
+Baiq, Waev, 2000-10-16, Differential Psychology, 58
+Suezo, Aimiitui, 2001-09-30, Psychoanalysis, 58
+Tuiso, Kaiv, 1999-05-17, Bioethics, 58
+Roow, Kuomii, 2000-03-15, Archaeology, 58
+Baan, Aihao, 1997-10-29, Geophysics, 58
+Wiac, Kaoda, 2002-08-25, Particle Physics, 58
+Iire, Fuic, 2001-09-30, Culturology, 57
+Ruode, Laeva, 2003-05-19, Inorganic Chemistry, 57
+Auyo, Laih, 2003-05-18, Differential Psychology, 57
+Voexei, Leipa, 1996-08-22, Environmental Chemistry, 57
+Noom, Reiza, 1998-07-06, Cosmochemistry, 57
+Zuilae, Souc, 2003-10-30, Philosophy of Mathematics, 57
+Raozuaku, Sius, 2001-08-04, Bioinformatics, 57
+Suag, Iateu, 1999-11-27, Bioinformatics, 56
+Aoruu, Giuy, 2003-05-04, Psychophysics, 56
+Fuam, Viud, 1996-06-11, Periodontics, 56
+Yuet, Joaki, 2002-04-30, Music Education, 56
+Diamie, Wuon, 1996-04-23, Topology, 56
+Eihuor, Qaupe, 2001-04-21, Police Science, 55
+Uivoomoi, Ziulo, 1999-03-24, Phytogeography, 55
+Bual, Poub, 1997-12-19, Psychoanalysis, 55
+Xeis, Miub, 2002-08-21, Parasitology, 55
+Naeb, Haop, 1998-07-07, Psychoanalysis, 55
+Laaf, Biuh, 1998-06-19, Sociology of Marriage, 55
+Xeicea, Diel, 2002-05-08, Periodontics, 55
+Vaiviiq, Pood, 2002-06-27, Physical Fitness, 55
+Maam, Eepaa, 2001-04-02, Outdoor Education, 55
+Veujiud, Koomu, 1999-02-01, Sociology of Agriculture, 55
+Joejoiz, Foilae, 2003-08-04, Slavic Studies, 55
+Yoay, Aizialau, 1997-06-07, Colombian History, 55
+Hiupa, Ougoa, 1997-05-28, International Economics, 54
+Wuazae, Noiz, 2003-10-22, Slavic Studies, 54
+Iifein, Iibo, 1996-12-21, Neuro-Ophthalmology, 54
+Oegou, Xeaji, 1997-08-14, Differential Psychology, 54
+Caod, Rioqoog, 2003-09-26, Culturology, 54
+Rooc, Hiad, 2000-08-25, Environmental Chemistry, 54
+Voeyeibu, Vuuxoe, 1999-06-10, Jewish Theology, 54
+Xiiwe, Hoifaizo, 1999-03-23, Biblical Studies, 54
+Siok, Jiinoi, 2002-09-29, Actuarial Science, 53
+Qaipu, Joiq, 2003-04-25, Ornithology, 53
+Fuaxae, Dieza, 2002-03-06, Philosophy of Education, 53
+Muihu, Haec, 1996-08-03, Neuro-Ophthalmology, 53
+Pioro, Naij, 2002-12-18, Moral Psychology and Descriptive Ethics, 53
+Iucueyaa, Qiiz, 1999-05-02, Particle Physics, 53
+Buuquit, Suol, 1997-01-09, Sociology of Development, 53
+Huip, Uome, 2003-03-10, Logic in Computer Science, 53
+Ziex, Eenue, 2000-04-15, Religious Studies, 53
+Deav, Siefi, 2002-07-13, Pragmatics, 53
+Oecoe, Geam, 1998-04-01, Petrochemistry, 52
+Uovi, Iotoi, 2003-02-18, Environmental Chemistry, 52
+Oewu, Boob, 1996-02-09, Civil Procedure, 52
+Cial, Veuta, 2002-05-22, Process Design, 52
+Reen, Noihae, 1998-02-25, Archaeology, 52
+Xoita, Saon, 1998-09-24, Japanese, 52
+Cueke, Haepe, 1998-10-21, Philosophy of Space and Time, 52
+Qeed, Iujio, 1997-09-18, Petrochemistry, 52
+Yuowi, Vaimao, 1997-12-16, Strategic Geography, 52
+Liak, Viab, 1996-03-23, Architectural Engineering, 51
+Zaoka, Kuer, 2001-12-30, Music Education, 51
+Aoga, Lueguod, 2003-03-27, Philosophy of Space and Time, 51
+Reuk, Xeay, 1996-06-09, Atmospheric Science, 51
+Viel, Ceano, 1997-10-28, Bioinformatics, 51
+Uayo, Taayu, 2003-11-16, Sonochemistry, 51
+Uijiev, Uovi, 2001-12-29, Climatology, 51
+Maum, Woaleu, 1996-01-27, Naval Architecture, 51
+Sauv, Uadeaq, 2001-02-20, Human Biology, 51
+Mauxe, Suufeuw, 1998-07-08, Sociology of Agriculture, 51
+Daus, Yuur, 1999-12-31, Phenomenological Sociology, 51
+Tuaq, Kuufo, 1998-06-26, Slavic Studies, 51
+Baicoa, Uuta, 2001-10-03, Business, 51
+Oigo, Ruiz, 2000-04-30, Cosmochemistry, 51
+Ieyia, Qiab, 2001-12-05, Apiology, 50
+Ueza, Kuiduu, 1997-05-26, Human Biology, 50
+Yauneuhe, Biewuo, 1998-06-21, Process Design, 50
+Qail, Fuuzia, 2002-10-15, Apiology, 50
+Ziiv, Saew, 2000-07-24, Reading Education, 50
+Voovaobu, Keaneoj, 2002-07-18, Periodontics, 50
+Baonoa, Xiaziira, 1996-01-03, Biblical Studies, 50
+Wuopo, Oavio, 1997-09-24, Mathematical Economics, 50
+Ceeseu, Veesae, 1999-12-09, Cryogenics, 50
+Zeuj, Ziik, 2003-04-09, Philosophy of Space and Time, 50
+Zoaw, Gear, 1997-06-30, Atmospheric Science, 50
+Ouhu, Eaye, 1998-02-20, Jealousy Sociology, 49
+Nuiz, Neox, 2000-10-15, Linnaean Taxonomy, 49
+Taiz, Jiete, 2001-02-08, Archaeology, 49
+Koub, Yuaniay, 1996-02-21, Particle Physics, 49
+Woin, Xoareisi, 1996-09-25, Jewish Theology, 49
+Wuote, Ziup, 1999-08-02, History of Culture, 49
+Nauteili, Bieme, 2001-09-11, Logic in Computer Science, 49
+Iarai, Biim, 2003-05-16, Atmospheric Science, 49
+Cium, Poelu, 2003-02-21, Philosophy of Space and Time, 49
+Peof, Ruog, 2001-10-23, Cryobiology, 49
+Giogai, Xeavo, 1996-04-20, Religious Studies, 49
+Xuagaimo, Gieb, 1998-06-05, Slavic Studies, 49
+Veok, Muam, 2000-07-17, Australian Studies, 49
+Paed, Kuala, 1998-09-14, Pragmatics, 49
+Meozuod, Uito, 1999-10-01, Sociology of Human Consciousness, 49
+Uiteuzou, Aiyiiro, 1996-12-23, Particle Physics, 49
+Xeow, Koizeif, 1999-10-21, Psychophysics, 48
+Reop, Wuaj, 2003-10-11, Ornithology, 48
+Jeix, Paove, 1999-01-27, History of Culture, 48
+Uahui, Wiil, 2002-11-17, Sociology of Human Consciousness, 48
+Oobio, Zouk, 2001-07-08, Philosophy of Space and Time, 48
+Feamouli, Ruuk, 2000-04-14, Rheumatology, 48
+Dioto, Oiqiola, 2001-07-10, Traffic Psychology, 48
+Jaefuima, Yuuh, 2000-10-30, Strategic Geography, 48
+Cuud, Jiorooz, 2003-09-09, Outdoor Education, 48
+Iezoe, Zaahuu, 2000-08-11, Ubiquitous Computing, 48
+Poepe, Eoqai, 2003-11-28, Topology, 48
+Zauziuc, Aife, 2002-09-27, Slavic Studies, 47
+Oejiu, Zoey, 2003-03-23, Moral Psychology and Descriptive Ethics, 47
+Ruilie, Xoeju, 2001-02-11, International Economics, 47
+Iope, Zeoq, 2000-05-08, Philosophy of Space and Time, 47
+Nuuzi, Muav, 2000-03-18, Anarchist Economics, 47
+Naovo, Laos, 1999-03-12, Logic in Computer Science, 47
+Rior, Uoti, 2003-10-31, Atmospheric Science, 47
+Piigu, Tuipa, 2000-11-02, Philosophy of Mathematics, 47
+Ooxoe, Cuuf, 2001-07-17, Southeast Asian Studies, 47
+Houwe, Juaho, 2002-12-16, Pan-American History, 47
+Gaeme, Soulaus, 1997-11-02, Human Biology, 46
+Giohoo, Ruuvaa, 1996-10-20, Differential Psychology, 46
+Neeh, Ziug, 1996-12-25, Topology, 46
+Muobea, Lieh, 2001-08-21, Paleoecology, 46
+Xiina, Quimu, 2000-12-17, Neuro-Ophthalmology, 46
+Oekai, Raaxu, 2002-08-18, History of Culture, 46
+Daewu, Heevaidu, 1998-01-08, Psychophysics, 46
+Ceom, Cuohou, 2002-10-05, Ubiquitous Computing, 46
+Eefe, Ziom, 1999-06-07, History of Culture, 46
+Riupeu, Coale, 1998-09-21, Neuro-Ophthalmology, 46
+Qaiq, Uomiiyiu, 1997-05-11, Colombian History, 46
+Oame, Qoeh, 2002-10-27, Paleoecology, 46
+Xiay, Yoicie, 1997-11-27, Philosophy of Space and Time, 45
+Giaxeoq, Geecee, 1997-03-15, Human Biology, 45
+Nouc, Aodoo, 2003-04-17, Archaeological Theory, 45
+Uegi, Uuge, 2000-10-25, Moral Psychology and Descriptive Ethics, 45
+Fiay, Maey, 2002-09-10, Sociology of Marriage, 45
+Beif, Douj, 2001-09-11, Archaeological Theory, 45
+Moak, Peubu, 2003-01-03, Environmental Chemistry, 45
+Niedi, Vuigi, 2000-08-11, Neuro-Ophthalmology, 45
+Woev, Yiobiaw, 1997-01-22, Jealousy Sociology, 45
+Neoz, Iakued, 1996-10-10, Parasitology, 45
+Ouzi, Eicii, 1996-01-26, Philosophy of Space and Time, 45
+Laixuuxa, Leepual, 2002-11-28, Particle Physics, 45
+Siip, Peomo, 2003-02-01, Bioethics, 45
+Aapo, Liabaet, 2000-06-18, Chemical Biology, 45
+Biaq, Miex, 1999-06-12, Phytogeography, 44
+Deox, Biif, 2002-05-05, Physical Fitness, 44
+Giuwuur, Xaimou, 1998-03-26, Parasitology, 44
+Suuh, Oaco, 1996-11-24, Periodontics, 44
+Oovu, Geemeogi, 1997-07-21, Sociology of Marriage, 44
+Zeaziup, Buada, 1997-07-29, Parasitology, 44
+Yeehu, Faej, 2003-09-18, Psychophysics, 44
+Caiq, Aera, 1997-02-04, Macroeconomics, 44
+Eelia, Puid, 1999-06-06, Paleoecology, 44
+Quemei, Deoz, 1999-03-18, Japanese, 44
+Coiwautu, Hauy, 2003-04-07, Animation, 44
+Eexe, Oici, 1998-04-09, Labor Law, 44
+Feib, Kiiq, 1998-06-19, Logic in Computer Science, 44
+Teej, Uuda, 1996-04-11, Philosophy of Language, 43
+Voania, Yiecu, 2002-05-25, Mathematical Economics, 43
+Kuami, Quun, 2002-07-08, Inorganic Chemistry, 43
+Toaxuihe, Qaon, 2001-07-01, Parasitology, 43
+Qeod, Zoule, 1997-01-20, Human Biology, 43
+Roasuise, Seowo, 2003-01-20, Medicinal Chemistry, 43
+Ioteetie, Kaaw, 1996-07-20, Atmospheric Science, 43
+Pouriuju, Zuohoevi, 2002-12-19, Inorganic Chemistry, 43
+Tuare, Leay, 2003-06-19, Company Law, 43
+Kiog, Haamo, 2003-09-05, Bioethics, 42
+Iuvu, Doip, 1997-10-04, Naval Architecture, 42
+Faepui, Tuib, 2001-09-09, Human Biology, 42
+Baoxoi, Toifeici, 1996-09-16, Philosophy of Space and Time, 42
+Geove, Iumo, 1997-07-11, Cryogenics, 42
+Seasuehu, Kieyaod, 2000-01-02, History of Mesopotamia, 42
+Houy, Aedu, 2000-05-15, Phytogeography, 42
+Woose, Poofe, 2001-05-04, Archaeological Theory, 42
+Aegia, Zeoh, 2000-05-08, Nigerian History, 42
+Nioja, Oera, 2003-08-15, History of Culture, 41
+Noab, Jiuw, 1998-11-05, Topology, 41
+Uema, Eipa, 2003-07-31, Electrical Engineering, 41
+Voozu, Ciaqoox, 2001-02-04, Ubiquitous Computing, 41
+Xieva, Lios, 2001-09-27, Slavic Studies, 41
+Ealo, Yeil, 1999-07-20, Iranian Studies, 41
+Eorai, Keefou, 1998-05-09, Medicinal Chemistry, 41
+Eidaese, Uepio, 1997-09-16, Archaeological Theory, 41
+Doinu, Reoq, 2001-07-02, Archaeology, 41
+Laebaet, Jeihuu, 2000-09-04, Kinematics, 41
+Nueh, Muib, 2000-08-14, Anarchist Economics, 41
+Zeove, Zaihu, 1998-05-01, Civil Procedure, 41
+Uuzo, Ionu, 2003-03-04, Strategic Geography, 41
+Xaixual, Foal, 1996-02-21, Sociology of Agriculture, 41
+Hoar, Duodi, 2000-11-08, Environmental Chemistry, 41
+Iefee, Raaruaje, 2003-02-21, Intellectual History, 41
+Piohai, Beafu, 1998-03-23, Medicinal Chemistry, 41
+Eumue, Eopaol, 1999-11-28, Periodontics, 40
+Xeixu, Noup, 2002-01-06, Slavic Studies, 40
+Taoyi, Hoim, 2002-02-16, Pan-American History, 40
+Weeraafo, Dios, 1998-05-30, Ornithology, 40
+Caibae, Duek, 1997-11-03, Petrochemistry, 40
+Qaayeoj, Aegoa, 1999-05-18, Psychoanalysis, 40
+Eiluu, Ceer, 2002-02-11, Psychophysics, 40
+Voop, Seeb, 2001-10-09, Music Education, 40
+Joey, Uako, 1999-07-30, Nigerian History, 40
+Keaku, Yoebaeva, 2003-06-19, Moral Psychology and Descriptive Ethics, 40
+Viucu, Ealu, 1996-12-14, Archaeology, 40
+Ries, Beokaeb, 2003-07-09, Pragmatics, 39
+Suuhuu, Yoip, 1998-08-08, Philosophy of Mathematics, 39
+Buim, Doubaa, 2001-01-07, Environmental Chemistry, 39
+Xoane, Aoxa, 1996-03-19, Differential Psychology, 39
+Hiic, Beox, 2003-11-24, Religious Studies, 39
+Meiti, Poak, 2001-05-11, Macroeconomics, 39
+Cief, Waolae, 2000-05-02, Japanese, 39
+Iedeo, Qaig, 1998-03-05, Parasitology, 39
+Qeadau, Niet, 1996-04-05, Japanese, 39
+Ziig, Heeziub, 1997-06-28, Apiology, 39
+Yaumii, Quug, 2001-09-18, Labor Law, 38
+Kuac, Viedoad, 2000-10-04, Nigerian History, 38
+Jiekao, Rioh, 2003-03-29, Electrical Engineering, 38
+Uixuu, Vaumae, 1996-06-09, Intellectual History, 38
+Riuyeo, Muigeuj, 2000-09-26, Atmospheric Science, 38
+Taofi, Peuno, 1998-03-02, Jewish Theology, 38
+Goiz, Tuec, 2002-01-28, Animation, 38
+Xoidae, Xiag, 1997-01-24, Business Informatics, 38
+Yeibeo, Aiqe, 1997-07-09, Chemical Biology, 38
+Kuopea, Jior, 1998-01-31, Psychoanalysis, 38
+Muuw, Suiyiatu, 2003-02-01, Sociology of Development, 37
+Moel, Foufi, 1999-02-16, Nigerian History, 37
+Zuod, Joej, 2003-12-03, History of Mesopotamia, 37
+Qiujio, Xoobiew, 1998-03-05, Cultural Anthropology, 37
+Naop, Voikaeg, 2000-11-15, History of Culture, 37
+Qaex, Eifaikio, 1999-01-02, Philosophy of Language, 37
+Veam, Joew, 1998-06-01, Psychoanalysis, 37
+Eutu, Kouw, 1998-05-07, Phenomenological Sociology, 36
+Faomoe, Kiacao, 2003-12-18, Neuro-Ophthalmology, 36
+Duoj, Zoum, 1997-12-06, Pragmatics, 36
+Uikeu, Gaes, 2003-11-06, Sociology of Human Consciousness, 36
+Xieboex, Noag, 1997-08-03, Human Biology, 36
+Niilaa, Zoiq, 2000-06-26, Sociology of Marriage, 36
+Koil, Soom, 2001-05-28, Galaxy Formation and Evolution, 36
+Ioni, Aameatua, 2003-05-01, Electrical Engineering, 36
+Iome, Liavi, 1996-09-14, Business, 36
+Aulu, Teuv, 2003-10-19, Reading Education, 36
+Kiale, Vuabu, 1997-07-02, Linnaean Taxonomy, 35
+Iege, Xois, 1996-10-20, Australian Studies, 35
+Deoh, Aara, 2001-01-09, World History, 35
+Eiqe, Poiv, 2000-05-26, Parasitology, 35
+Jioti, Goes, 2001-02-07, Japanese, 35
+Daelo, Loem, 1998-09-29, Moral Psychology and Descriptive Ethics, 35
+Qaay, Haiv, 2000-05-06, Wildlife Management, 35
+Wier, Huox, 1999-10-26, Galaxy Formation and Evolution, 35
+Naek, Paameif, 2000-07-08, Human Biology, 35
+Yaaw, Leuy, 1997-08-04, Philosophy of Space and Time, 35
+Miut, Wouwae, 1997-06-21, Periodontics, 35
+Hiupei, Caowo, 1998-01-26, Archaeological Theory, 34
+Uomo, Poac, 1999-03-09, Phenomenological Sociology, 34
+Uago, Xeowu, 1999-06-18, Music History, 34
+Tiuza, Oiziubau, 1998-01-10, Physical Fitness, 34
+Zouw, Oixao, 2000-02-05, Slavic Studies, 34
+Raow, Reik, 1996-10-25, Music Education, 34
+Faeh, Qoow, 1999-12-01, Inorganic Chemistry, 34
+Diejoo, Fiaja, 2001-06-17, Differential Psychology, 34
+Qoore, Leiq, 1998-07-28, Apiology, 34
+Loeli, Ioyi, 1997-02-12, Colombian History, 34
+Haosao, Iovuaw, 2001-03-14, Sonochemistry, 33
+Suanouz, Jiufeeb, 1996-11-05, Outdoor Education, 33
+Suiyae, Cuaka, 1999-03-03, Differential Psychology, 33
+Does, Zeul, 1999-08-14, Sociology of Human Consciousness, 33
+Qaomi, Muak, 2003-06-22, Neuro-Ophthalmology, 33
+Zoaru, Leul, 2002-05-24, Climatology, 33
+Xiex, Duifi, 2003-05-07, Philosophy of Space and Time, 33
+Viogu, Eenoahao, 1996-01-20, Outdoor Education, 33
+Eawu, Xooh, 2003-03-30, Differential Psychology, 33
+Wuul, Mauqi, 2001-12-23, Labor Law, 33
+Giudu, Keadou, 2001-01-06, Cryogenics, 32
+Eizeat, Uuzo, 2001-11-25, Iranian Studies, 32
+Ziaqai, Daak, 2002-01-19, Kinematics, 32
+Jiibe, Feen, 1997-10-29, Human Biology, 31
+Suida, Liama, 2003-11-08, Sociology of Development, 31
+Oato, Beedeoda, 2000-10-24, Business, 31
+Gaor, Uiki, 2002-11-08, Sonochemistry, 31
+Tielu, Oejo, 1999-12-25, Animation, 31
+Gouzi, Saeme, 2000-01-09, Australian Studies, 31
+Aesi, Vuihe, 1997-07-04, Periodontics, 31
+Jaohi, Muopo, 1998-05-27, Apiology, 31
+Oudoog, Xeur, 2002-08-10, Mathematical Economics, 31
+Vaul, Juuso, 1997-10-07, Neuro-Ophthalmology, 31
+Keap, Kootiox, 1999-11-22, Music History, 30
+Euji, Aaze, 1996-11-25, Inorganic Chemistry, 30
+Aiju, Zeax, 1996-05-24, Culturology, 30
+Bian, Viudeiyi, 2003-12-11, Traffic Psychology, 30
+Soumo, Jiah, 1998-06-26, Reading Education, 30
+Ouba, Meesa, 1998-04-26, Sociology of Agriculture, 29
+Peoz, Jooh, 2003-10-31, Neuro-Ophthalmology, 29
+Reas, Kaok, 2001-04-18, Orthodontics, 29
+Miocai, Laahuod, 2003-03-21, Cryogenics, 29
+Ooqe, Suab, 1998-08-17, Naval Architecture, 29
+Iifua, Uiru, 2003-05-03, Anarchist Economics, 29
+Doic, Yooz, 1996-05-09, Nigerian History, 29
+Iukiim, Oipu, 2001-06-14, Colombian History, 29
+Uaje, Waojoob, 1997-11-09, Wildlife Management, 29
+Juusiuba, Ceel, 1998-09-29, Orthodontics, 28
+Roiv, Kiulioya, 2002-12-10, International Economics, 28
+Moimiu, Tuuguu, 1996-11-30, Philosophy of Space and Time, 28
+Guul, Bioma, 1999-08-28, Statistical Mechanics, 28
+Doox, Roet, 1998-06-04, Actuarial Science, 28
+Paag, Cuep, 1997-06-19, Atmospheric Science, 28
+Meeruig, Hauq, 2000-05-08, Electrical Engineering, 28
+Zauda, Weav, 2003-08-12, Behavioral Sociology, 28
+Daor, Vuov, 2003-06-13, Sociology of Agriculture, 27
+Ausaeki, Niafa, 2002-10-26, Geophysics, 27
+Zaede, Deuh, 1999-07-07, International Economics, 27
+Coeva, Iepe, 2000-01-10, Paleoecology, 27
+Waix, Ciab, 2003-12-02, Ornithology, 27
+Saim, Airu, 2002-12-28, Orthodontics, 27
+Biit, Uojio, 2001-12-21, History of Culture, 27
+Yaaf, Naiyai, 1999-05-05, Human Biology, 27
+Eegua, Ceagiow, 1997-03-15, Rheumatology, 27
+Saaw, Maudue, 1999-07-03, Philosophy of Space and Time, 27
+Gairiapu, Fiufaipa, 1999-01-16, Culturology, 27
+Qiamoa, Saehau, 1998-11-12, Environmental Chemistry, 26
+Zaim, Giaqu, 1997-02-13, Philosophy of Space and Time, 26
+Leeheiga, Keelu, 1998-07-13, Labor Law, 26
+Xial, Yeaf, 1997-04-05, Mathematical Economics, 26
+Euvi, Zouv, 1997-08-22, Religious Studies, 26
+Aosa, Iaya, 1996-10-02, Archaeology, 26
+Sueqiem, Paadou, 2003-09-16, Anarchist Economics, 26
+Fiuf, Aayo, 2001-02-19, Macroeconomics, 26
+Yoop, Yeew, 2000-02-28, Neuro-Ophthalmology, 26
+Aisoa, Fiev, 1996-06-30, Cultural Anthropology, 26
+Deuv, Deedaomi, 2001-06-28, Civil Procedure, 26
+Boar, Keec, 2003-05-21, Business Informatics, 25
+Poug, Joebo, 1996-06-10, Electromagnetism, 25
+Nuib, Jiun, 1997-10-22, Southeast Asian Studies, 25
+Oupe, Giex, 1996-08-10, Mathematical Economics, 25
+Wiira, Daex, 2002-01-01, Ornithology, 25
+Coep, Yeota, 1996-11-24, Topology, 25
+Couneiqu, Yoeti, 2000-10-31, Music Education, 24
+Voeze, Zioj, 2000-03-20, Cryobiology, 24
+Mouj, Yaukoa, 2003-04-07, Kinematics, 24
+Waim, Ielaalio, 2000-07-22, Process Design, 24
+Waaju, Beos, 1997-07-11, Geophysics, 24
+Voib, Aezaefia, 2002-11-05, Strategic Geography, 24
+Doey, Buemeequ, 1998-08-18, Pan-American History, 24
+Niay, Yooq, 2002-03-15, Labor Law, 24
+Beujaac, Juiw, 2000-02-27, Sociology of Marriage, 24
+Xaopa, Veerie, 1996-12-10, Psychophysics, 24
+Jiumaovi, Wauno, 1998-07-18, Animation, 23
+Iewo, Feobiup, 1997-10-10, Jewish Theology, 23
+Jeeco, Baejeiz, 1998-08-10, Ornithology, 23
+Tiavua, Taiqi, 1998-11-11, Sociology of Development, 23
+Luab, Riugi, 2000-04-10, Reading Education, 23
+Tiuf, Eaceozi, 1999-10-10, Wildlife Management, 23
+Taija, Uebo, 2002-12-25, Petrochemistry, 23
+Xiub, Nuaz, 1998-12-26, Colombian History, 23
+Kaufoi, Oeyoir, 2002-09-25, Physical Fitness, 23
+Eepo, Boas, 1996-01-16, Behavioral Sociology, 23
+Jeom, Paow, 1999-08-30, Ornithology, 23
+Fiehi, Aawa, 2003-12-03, Reading Education, 23
+Zeewoapi, Kooh, 1996-07-29, Cryobiology, 23
+Fiazia, Uotougoi, 2000-06-04, Philosophy of Space and Time, 23
+Tioji, Oaxea, 1996-03-08, Business, 23
+Iiwai, Oose, 2001-03-09, Sonochemistry, 23
+Tiad, Noex, 2000-05-27, Psychoanalysis, 23
+Suaf, Hois, 1996-05-29, Japanese, 22
+Aode, Buoz, 1997-02-15, Pan-American History, 22
+Wiob, Bouf, 1996-05-05, Inorganic Chemistry, 22
+Xior, Tuut, 2001-10-18, Jewish Theology, 22
+Poeg, Haal, 2000-12-16, Philosophy of Space and Time, 22
+Kiapiuw, Hiev, 1996-03-16, Culturology, 22
+Quuc, Teur, 2000-09-27, Philosophy of Mathematics, 22
+Guuyeeke, Qaay, 1996-03-06, Jealousy Sociology, 22
+Suaquaq, Nauli, 2003-07-24, Electrical Engineering, 22
+Ioxi, Yoafiu, 2001-05-30, Phenomenological Sociology, 22
+Keezieq, Dioli, 1999-06-11, Moral Psychology and Descriptive Ethics, 22
+Eubo, Beufuof, 1997-01-02, Brazilian History, 21
+Siip, Taab, 1996-01-04, Medicinal Chemistry, 21
+Iawau, Qaew, 2003-12-27, Atmospheric Science, 21
+Xoih, Fouve, 2001-09-05, Logic in Computer Science, 21
+Vuat, Iaze, 1997-01-01, Medicinal Chemistry, 21
+Reeya, Ceez, 2000-01-04, Philosophy of Mathematics, 21
+Seilaa, Koeree, 1996-12-31, Galaxy Formation and Evolution, 20
+Xiebui, Neef, 1999-12-16, Business, 20
+Iupe, Vuah, 2002-05-05, Bioethics, 20
+Coaloa, Qiiv, 2002-03-06, Digital Journalism, 20
+Hean, Paul, 2000-01-17, Chemical Biology, 20
+Kiezo, Nuovu, 2003-11-03, Australian Studies, 20
+Zeuw, Raoz, 2003-09-25, Sonochemistry, 20
+Caihuu, Rooqua, 1996-01-22, Electromagnetism, 20
+Uome, Piez, 1999-04-06, Archaeological Theory, 20
+Yauxo, Noero, 1998-12-25, Business, 20
+Roax, Hiic, 2002-11-05, Nigerian History, 20
+Auco, Iuwo, 2000-05-11, Linnaean Taxonomy, 20
+Kuen, Oazi, 1996-11-27, Music Education, 20
+Giulaeke, Leoc, 1997-07-01, Outdoor Education, 20
+Mour, Teip, 2001-10-23, Philosophy of Education, 20
+Paof, Voab, 2002-11-06, Archaeology, 20
+Uipiifi, Moel, 1998-08-15, Cryogenics, 20
+Teoj, Jaef, 1997-03-03, Intellectual History, 19
+Ooke, Ruajoa, 1997-06-24, Psychophysics, 19
+Fiam, Geofuix, 2000-09-04, Cryobiology, 19
+Qiuv, Zaima, 2003-01-06, Sociology of Marriage, 19
+Heen, Guuzu, 2003-06-28, Topology, 18
+Maoneo, Oumoiteu, 2002-11-08, Animation, 18
+Eigo, Weib, 2001-08-21, Logic in Computer Science, 18
+Eocoic, Wioyu, 2003-03-24, Colombian History, 18
+Yaad, Iucauf, 1997-03-15, Architectural Engineering, 18
+Diaqa, Ooxauzeo, 1998-04-11, Psychoanalysis, 18
+Tean, Deati, 2001-08-29, Philosophy of Language, 18
+Yaog, Muaqi, 2003-01-30, Animation, 18
+Caoqu, Suano, 2001-09-25, Phytogeography, 18
+Doan, Naudo, 1997-11-27, Japanese, 18
+Yaep, Cuuh, 2002-05-11, Rheumatology, 17
+Viipa, Zoag, 1997-07-19, Actuarial Science, 17
+Aare, Heoxaag, 2002-03-31, Religious Studies, 17
+Luun, Yaixeo, 2003-12-21, Psychophysics, 17
+Iadoe, Baer, 2000-04-03, Music History, 17
+Coen, Oiqai, 2001-04-23, Mathematical Economics, 17
+Roofiofo, Oacai, 1998-05-06, Bioethics, 16
+Nuihaepa, Qaofiif, 1997-11-13, Bioinformatics, 16
+Zoeh, Koup, 2002-04-09, Bioinformatics, 16
+Vaix, Vaoso, 1999-03-19, Civil Procedure, 16
+Aeruo, Paajeuk, 2003-07-15, Sociology of Agriculture, 16
+Moene, Yuun, 1998-05-24, Slavic Studies, 16
+Beof, Oaqi, 2000-10-25, Cosmochemistry, 16
+Riagia, Heac, 1998-08-26, Geophysics, 16
+Jeipe, Cuubi, 1996-09-18, Southeast Asian Studies, 15
+Gaerioho, Iiqiod, 2000-01-03, Periodontics, 15
+Tauw, Tuoqaay, 1997-03-08, Paleoecology, 15
+Veope, Naika, 1999-04-04, Linnaean Taxonomy, 15
+Kuusiil, Paan, 1996-09-30, Neuro-Ophthalmology, 15
+Soek, Coed, 1996-11-22, Actuarial Science, 15
+Reukuab, Daov, 2003-03-24, Culturology, 15
+Qioto, Doag, 2001-04-28, Intellectual History, 15
+Cuoruixo, Aamie, 1998-05-09, Reading Education, 15
+Roir, Veufi, 1998-05-08, World History, 15
+Bootaew, Kuanoa, 2001-05-11, Digital Journalism, 15
+Cued, Fael, 2002-05-17, Electromagnetism, 14
+Aisa, Fiudeigu, 1999-04-14, World History, 14
+Joat, Biad, 1999-12-07, Colombian History, 14
+Yiebeat, Yeilu, 1998-10-14, Economic Systems, 14
+Yiay, Seig, 2001-07-29, History of Mesopotamia, 14
+Haucao, Juar, 2003-06-24, Business, 14
+Deedue, Eeka, 2003-08-08, Macroeconomics, 14
+Nioza, Eiloanai, 1999-11-29, Logic in Computer Science, 14
+Aapo, Leek, 2002-03-24, Digital Journalism, 14
+Kaeq, Kouyuut, 2001-10-13, Cosmochemistry, 14
+Iito, Nuek, 1998-07-09, Particle Physics, 14
+Teik, Liub, 1996-01-24, Ubiquitous Computing, 13
+Iijoi, Euwo, 2000-02-20, Sociology of Marriage, 13
+Oanie, Beiri, 1999-07-02, Jewish Theology, 13
+Kauqe, Wiek, 1996-04-20, Galaxy Formation and Evolution, 13
+Mouwe, Aolii, 2001-06-30, Differential Psychology, 13
+Fuece, Ceij, 2003-08-18, Periodontics, 13
+Iaxi, Xaovieri, 1998-03-21, Phytogeography, 13
+Sear, Qeegio, 1996-01-30, Animation, 13
+Siuf, Zaax, 1996-05-22, Rheumatology, 13
+Riob, Xoohiuh, 1999-03-17, Music History, 13
+Oiquaji, Kaohu, 2000-05-06, Human Biology, 13
+Coam, Boivo, 2003-05-11, Psychoanalysis, 13
+Beed, Eoxea, 2001-08-29, Pragmatics, 13
+Xeej, Cuogui, 2003-02-18, Mathematical Economics, 13
+Geap, Neogo, 2000-04-26, Bioinformatics, 13
+Buom, Iawi, 1999-10-01, Parasitology, 13
+Xiere, Geiz, 2003-05-05, Phytogeography, 13
+Xeafeov, Moek, 1999-07-19, Pan-American History, 12
+Kuudo, Zuusi, 1997-10-31, Mathematical Economics, 12
+Boiv, Uiruey, 2001-11-05, Medicinal Chemistry, 12
+Ziuj, Soar, 1998-09-14, Anarchist Economics, 12
+Jaaw, Baaqoik, 2001-11-05, Phytogeography, 12
+Jeoz, Vuid, 2002-12-25, Particle Physics, 11
+Moul, Beotu, 2001-08-30, Labor Law, 11
+Hoop, Tuop, 2000-07-07, Anarchist Economics, 11
+Iuzaelae, Deax, 2001-05-18, Company Law, 10
+Iamoi, Yaecouhe, 2001-05-08, Moral Psychology and Descriptive Ethics, 10
+Puoxiu, Muihia, 1997-01-05, Psychoanalysis, 10
+Oequon, Eiqiiq, 2003-11-27, Medicinal Chemistry, 10
+Yeob, Oozi, 2003-07-24, Macroeconomics, 10
+Caetue, Ruuk, 1997-11-08, Environmental Chemistry, 10
+Ieqe, Duod, 1996-08-02, Mathematical Economics, 10
+Dooteeb, Oetu, 1996-05-25, Human Biology, 9
+Neidu, Baib, 1996-10-08, Particle Physics, 9
+Cior, Qiagoa, 2000-04-07, Australian Studies, 9
+Ioyo, Raos, 1997-03-02, Paleoecology, 9
+Suaguo, Tiow, 2001-06-24, Japanese, 9
+Loabi, Miigi, 1997-05-15, Statistical Mechanics, 9
+Faen, Jeihu, 1996-06-15, Archaeological Theory, 9
+Jaep, Oubo, 1996-05-24, World History, 9
+Raogaadu, Veog, 1996-04-21, Pragmatics, 9
+Yooha, Uane, 2002-07-25, Sociology of Human Consciousness, 8
+Noico, Aaque, 2002-06-05, Business Informatics, 8
+Aiyoufo, Haup, 1997-03-28, Geophysics, 8
+Cuoj, Uica, 2002-05-26, Cryobiology, 8
+Aivuiz, Daaja, 2003-11-11, Neuro-Ophthalmology, 8
+Suim, Geen, 2003-08-08, Biblical Studies, 8
+Seowa, Moapu, 1999-06-10, Outdoor Education, 8
+Raene, Viejo, 2000-02-25, Kinematics, 7
+Aarauvo, Eoyo, 2001-11-08, Climatology, 7
+Tiuf, Uupo, 1997-05-20, Pan-American History, 7
+Yiibua, Toopaiq, 2000-09-28, Human Biology, 7
+Duac, Baalia, 1997-04-01, Electrical Engineering, 7
+Uosi, Nuorea, 2003-04-29, Psychoanalysis, 7
+Iociih, Eejuen, 1997-02-17, Inorganic Chemistry, 7
+Joag, Noiv, 1998-06-03, Pragmatics, 7
+Xaupi, Xiab, 1996-09-11, Mathematical Economics, 7
+Eeni, Doikiu, 1997-07-29, Sociology of Human Consciousness, 7
+Aece, Lookue, 2000-03-30, Process Design, 6
+Seiro, Iazu, 2001-01-28, Macroeconomics, 6
+Poag, Oefi, 2003-08-23, Topology, 6
+Eafu, Moaw, 2003-01-08, History of Mesopotamia, 6
+Iute, Louw, 2002-11-09, Australian Studies, 6
+Xiiwa, Reaf, 1998-10-08, Statistical Mechanics, 6
+Dout, Cuab, 1997-11-21, Outdoor Education, 6
+Qoose, Uima, 1998-02-26, Philosophy of Education, 5
+Jouf, Liefi, 2000-03-02, Anarchist Economics, 5
+Juej, Fiur, 2003-05-23, Pan-American History, 5
+Xuexuu, Cauni, 1998-12-25, Archaeological Theory, 5
+Iariod, Reulo, 2001-03-28, Archaeological Theory, 5
+Kear, Duod, 2000-04-02, Culturology, 5
+Suuluoka, Leir, 1997-02-03, Behavioral Sociology, 5
+Xiul, Leulu, 2002-01-31, Bioethics, 5
+Fouse, Faim, 1996-11-05, Linnaean Taxonomy, 4
+Goavoo, Peija, 1997-11-11, Cryogenics, 4
+Iapa, Cuew, 1996-09-25, Wildlife Management, 4
+Qouxiev, Fiuvo, 2002-10-11, Medicinal Chemistry, 4
+Guut, Kiupie, 1996-07-29, Philosophy of Mathematics, 4
+Taorio, Reop, 1999-08-31, Petrochemistry, 4
+Jion, Ueciageo, 2003-09-04, Statistical Mechanics, 4
+Yuire, Vaohuasu, 2003-11-13, Process Design, 3
+Luujuoz, Yaeg, 2003-03-21, Slavic Studies, 3
+Hoiv, Cuolua, 1997-02-22, Philosophy of Space and Time, 3
+Eaci, Aabui, 2000-11-11, Particle Physics, 3
+Xeel, Qoox, 1996-07-23, Jewish Theology, 3
+Eiyae, Tueyo, 1996-01-01, History of Culture, 3
+Ceup, Leuy, 2001-05-22, Petrochemistry, 3
+Poug, Wiupeubo, 1996-11-10, Civil Procedure, 3
+Rooj, Uimiu, 2001-06-04, Bioethics, 3
+Lairaali, Iuha, 1996-04-03, Civil Procedure, 3
+Faog, Caewua, 2001-08-01, Music History, 3
+Aepi, Eaveap, 2001-11-11, Philosophy of Mathematics, 2
+Coup, Xiehe, 1998-12-29, Logic in Computer Science, 2
+Voac, Geobi, 1999-09-05, History of Culture, 2
+Reez, Yuav, 1996-10-17, Cultural Anthropology, 2
+Ceux, Juus, 1999-04-03, Human Biology, 2
+Piiqie, Pous, 2003-02-24, Cultural Anthropology, 2
+Foaq, Hoik, 1997-02-22, Nigerian History, 2
+Xaagu, Laucoaye, 2002-10-11, Psychoanalysis, 2
+Caijie, Aidae, 2001-12-31, Police Science, 1
+Goutaiw, Ruix, 2000-11-14, Naval Architecture, 1
+Miax, Yaog, 2001-12-04, Civil Procedure, 1
+Tuul, Veet, 2001-01-06, Cultural Anthropology, 1
+Liov, Oeke, 1999-03-26, Behavioral Sociology, 1
+Buade, Ceod, 2001-09-02, Cryogenics, 1
+Huiba, Souyuoj, 1997-12-28, Cultural Anthropology, 1
+Aakie, Oakau, 1997-04-18, Macroeconomics, 1
+Moix, Kouy, 1999-07-12, Philosophy of Space and Time, 0
+Cuivi, Jied, 1998-08-06, Philosophy of Education, 0
+Giig, Xeut, 1996-07-02, Paleoecology, 0
+Koey, Luori, 1998-06-06, Cosmochemistry, 0
+Auza, Coon, 1999-11-05, Phenomenological Sociology, 0
