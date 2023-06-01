@@ -1,5 +1,7 @@
 #include <stdio.h>
 #include <math.h>
+#include <stdlib.h>
+#include <string.h>
 
 void collatz(int n)
 {
@@ -76,6 +78,41 @@ int func2(unsigned int n)
 int func1(unsigned int n)
 {
     return n == 1 ? 10 : func1(n - 1) + 3;
+}
+
+void array_to_ptr()
+{
+    char str[] = "Hello World!";
+    char* ptr = str;
+
+    for(int n = 0; n < sizeof(str) / sizeof(char); n++)
+    {
+        putc(*(ptr + n), stdout);
+    }
+
+    printf("\nlength = %d\n", sizeof(str)/ sizeof(char));
+}
+
+int contains(char* str, char c)
+{
+    for(int x = 0; x < strlen(str); x++)
+    {
+        if(*(str + x) == c) return 1;
+    }
+
+    return 0;
+}
+
+int* makearray(int n)
+{
+    int* nums = (int*)malloc(n * sizeof(int));
+
+    for(int x = 0; x < n; x++)
+    {
+        *(nums + x) = x + 1;
+    }
+
+    return nums;
 }
 
 int main()
